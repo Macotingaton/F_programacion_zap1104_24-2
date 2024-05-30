@@ -1,0 +1,8 @@
+﻿  P006  Repaso Entrada y Salida de datos.cpp
+C:\Users\ALUMNO\source\repos\P006  Repaso Entrada y Salida de datos\P006  Repaso Entrada y Salida de datos.cpp(21,32): error C2955: 'std::basic_istream': el uso de clase plantilla requiere una lista de argumentos de plantilla
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(24): message : vea la declaración de 'std::basic_istream'
+C:\Users\ALUMNO\source\repos\P006  Repaso Entrada y Salida de datos\P006  Repaso Entrada y Salida de datos.cpp(21,25): error C2955: 'std::basic_istream': el uso de clase plantilla requiere una lista de argumentos de plantilla
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(24): message : vea la declaración de 'std::basic_istream'
+C:\Users\ALUMNO\source\repos\P006  Repaso Entrada y Salida de datos\P006  Repaso Entrada y Salida de datos.cpp(21,45): error C2665: 'std::basic_istream<_Elem,_Traits>::getline': ninguna de las 2 sobrecargas pudo convertir todos los tipos de argumento
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(440,39): message : puede ser 'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::getline(_Elem *,std::streamsize)'
+C:\Users\ALUMNO\source\repos\P006  Repaso Entrada y Salida de datos\P006  Repaso Entrada y Salida de datos.cpp(21,45): message : al hacer coincidir la lista de argumentos '(std::istream, std::string)'
